@@ -1,0 +1,25 @@
+#overlay{
+  display: none;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom:0;
+  z-index: 1;
+background-color: rgba(0, 0, 0, 0.5);
+
+}
+#pop-up{
+ max-width: 600px;
+  height: 300px;
+  margin: auto;
+  background-color: white;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom:0;
+}
+#website-content{
+  height: 1000vh;
+}
